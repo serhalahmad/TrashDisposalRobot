@@ -1,0 +1,26 @@
+<annotation>
+	<folder>MSD Images</folder>
+	<filename>WhatsApp Image 2022-05-13 at 7.09.15 PM.jpeg</filename>
+	<path>C:\Users\96171\Desktop\MSD Images\WhatsApp Image 2022-05-13 at 7.09.15 PM.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>CBox</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>108</xmin>
+			<ymin>164</ymin>
+			<xmax>738</xmax>
+			<ymax>674</ymax>
+		</bndbox>
+	</object>
+</annotation>
