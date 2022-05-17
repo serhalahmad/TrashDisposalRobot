@@ -1,5 +1,6 @@
 # TrashDisposalRobot
 <img src="Cover Photo.PNG" alt="Rover" title="Rover">
+Done by Ahmad Serhal, John-mark Fakhri, Kamal Bassil, and Mohamed Smaili.
 
 ## Description
 Our system will search the place around for a box to go and throw the trash in it. The mechatronic system consists of a robotic arm that is mounted on a rover. The
