@@ -10,8 +10,3 @@ other is responsible for controlling the forward motion speed of the motors.
 
 ## Circuit Connections
 <img src="Circuit Connections.PNG" alt="Circuit" title="Circuit">
-
-## Link to Video Demo
-The video can be accessed from [here](https://lauedu74602-my.sharepoint.com/personal/ahmad_serhal01_lau_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fahmad%5Fserhal01%5Flau%5Fedu%2FDocuments%2FLAU%2FSemester%2011%20%2D%20Spring%202022%2FMCE411%20Mechatronics%20System%20Design%20II%2FProject%2FVideo%2FFinal%20Demo%2Emp4&parent=%2Fpersonal%2Fahmad%5Fserhal01%5Flau%5Fedu%2FDocuments%2FLAU%2FSemester%2011%20%2D%20Spring%202022%2FMCE411%20Mechatronics%20System%20Design%20II%2FProject%2FVideo&ga=1)
-
-
